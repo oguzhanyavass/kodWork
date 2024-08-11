@@ -45,17 +45,12 @@
 
 ## In-App Visuals
 
-- [Job List Screen](./img/jobs.jpg)
-)
-- [Drawer Menu](./img/drawer.jpg)
-)
-)
-- [Favorites Screen](./img/nofav.jpg)
-)
-- [Job List Screen](./img/loadingjobs.jpg)
-)
-- [Job Details Screen](./img/jobdetail.jpg)
-- [Favorites Screen](./img/favadded.jpg)
+- ![Job List Screen](./img/jobs.jpg)
+- ![Drawer Menu](./img/drawer.jpg)
+- ![Favorites Screen](./img/nofav.jpg)
+- ![Job List Screen](./img/loadingjobs.jpg)
+- ![Job Details Screen](./img/jobdetail.jpg)
+- ![Favorites Screen](./img/favadded.jpg)
 
 ## About
 
