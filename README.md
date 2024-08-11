@@ -45,12 +45,14 @@
 
 ## In-App Visuals
 
-- <img src="./img/jobs.jpg" alt="Job List Screen" width="300"/>
-- <img src="./img/drawer.jpg" alt="Drawer Menu" width="300"/>
-- <img src="./img/nofav.jpg" alt="Favorites Screen" width="300"/>
-- <img src="./img/loadingjobs.jpg" alt="Job List Screen" width="300"/>
-- <img src="./img/jobdetail.jpg" alt="Job Details Screen" width="300"/>
-- <img src="./img/favadded.jpg" alt="Favorites Screen" width="300"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./img/jobs.jpg" alt="Job List Screen" width="300"/>
+  <img src="./img/drawer.jpg" alt="Drawer Menu" width="300"/>
+  <img src="./img/nofav.jpg" alt="Favorites Screen" width="300"/>
+  <img src="./img/loadingjobs.jpg" alt="Job List Screen" width="300"/>
+  <img src="./img/jobdetail.jpg" alt="Job Details Screen" width="300"/>
+  <img src="./img/favadded.jpg" alt="Favorites Screen" width="300"/>
+</div>
 
 ## About
 
@@ -108,12 +110,14 @@ An application has been developed where users can view jobs in the sector and vi
 
 ## Uygulama İçi Görseller
 
-- <img src="./img/jobs.jpg" alt="İş Listesi Ekranı" width="300"/>
-- <img src="./img/drawer.jpg" alt="Yan Menü" width="300"/>
-- <img src="./img/nofav.jpg" alt="Favoriler Ekranı" width="300"/>
-- <img src="./img/loadingjobs.jpg" alt="İş Listesi Ekranı" width="300"/>
-- <img src="./img/jobdetail.jpg" alt="İş Detayları Ekranı" width="300"/>
-- <img src="./img/favadded.jpg" alt="Favoriler Ekranı" width="300"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./img/jobs.jpg" alt="İş Listesi Ekranı" width="300"/>
+  <img src="./img/drawer.jpg" alt="Yan Menü" width="300"/>
+  <img src="./img/nofav.jpg" alt="Favoriler Ekranı" width="300"/>
+  <img src="./img/loadingjobs.jpg" alt="İş Listesi Ekranı" width="300"/>
+  <img src="./img/jobdetail.jpg" alt="İş Detayları Ekranı" width="300"/>
+  <img src="./img/favadded.jpg" alt="Favoriler Ekranı" width="300"/>
+</div>
 
 ## Hakkında
 
