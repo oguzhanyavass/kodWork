@@ -45,12 +45,12 @@
 
 ## In-App Visuals
 
-- ![Job List Screen](./img/jobs.jpg)
-- ![Drawer Menu](./img/drawer.jpg)
-- ![Favorites Screen](./img/nofav.jpg)
-- ![Job List Screen](./img/loadingjobs.jpg)
-- ![Job Details Screen](./img/jobdetail.jpg)
-- ![Favorites Screen](./img/favadded.jpg)
+- <img src="./img/jobs.jpg" alt="Job List Screen" width="300"/>
+- <img src="./img/drawer.jpg" alt="Drawer Menu" width="300"/>
+- <img src="./img/nofav.jpg" alt="Favorites Screen" width="300"/>
+- <img src="./img/loadingjobs.jpg" alt="Job List Screen" width="300"/>
+- <img src="./img/jobdetail.jpg" alt="Job Details Screen" width="300"/>
+- <img src="./img/favadded.jpg" alt="Favorites Screen" width="300"/>
 
 ## About
 
@@ -106,10 +106,18 @@ An application has been developed where users can view jobs in the sector and vi
 - **Arka Plan Rengi:** #FFFFFF
 - **Yazı Rengi:** #000000
 
+## Uygulama İçi Görseller
+
+- <img src="./img/jobs.jpg" alt="İş Listesi Ekranı" width="300"/>
+- <img src="./img/drawer.jpg" alt="Yan Menü" width="300"/>
+- <img src="./img/nofav.jpg" alt="Favoriler Ekranı" width="300"/>
+- <img src="./img/loadingjobs.jpg" alt="İş Listesi Ekranı" width="300"/>
+- <img src="./img/jobdetail.jpg" alt="İş Detayları Ekranı" width="300"/>
+- <img src="./img/favadded.jpg" alt="Favoriler Ekranı" width="300"/>
+
 ## Hakkında
 
 Kodwork
 Sıra geldi iş aramaya.
 
 Kullanıcıların sektördeki işleri görüntüleyebileceği ve iş detaylarına bakabileceği bir uygulama geliştirilmiştir. Kullanıcı uygulamayı açtığında işlerin listesini görebilir, detaylarını inceleyebilir ve favorilere ekleyebilir ya da iş başvurusu yapabilir. Uygulamada yandan açılır menüde "Favori" ve "İş Listesi" adında iki sayfa bulunur. Kullanıcı favori bölümünden işleri favorilerden kaldırabilir.
-
