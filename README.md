@@ -45,17 +45,17 @@
 
 ## In-App Visuals
 
-- [Job List Screen](./img/jobs)
+- [Job List Screen](./img/jobs.jpg)
 )
-- [Drawer Menu](![drawer](https://github.com/user-attachments/assets/96dba99a-9f94-4a6d-a675-19147f031b86)
+- [Drawer Menu](./img/drawer.jpg)
 )
 )
-- [Favorites Screen](![IMG-20240811-WA0011](https://github.com/user-attachments/assets/2e99ab18-f46d-41e8-beb0-5fb1ee4c2a29)
+- [Favorites Screen](./img/nofav.jpg)
 )
-- [Job List Screen](**![IMG-20240811-WA0010](https://github.com/user-attachments/assets/f3744283-4a6a-4986-962c-cbfcf5295a89**)
+- [Job List Screen](./img/loadingjobs.jpg)
 )
-- [Job Details Screen](![IMG-20240811-WA0012](https://github.com/user-attachments/assets/b0895437-63e5-4bb6-81c3-53999a8da05c))
-- [Favorites Screen](![IMG-20240811-WA0013](https://github.com/user-attachments/assets/47c2840d-55b8-46ee-9765-5717af3afdf2))
+- [Job Details Screen](./img/jobdetail.jpg)
+- [Favorites Screen](./img/favadded.jpg)
 
 ## About
 
@@ -110,20 +110,6 @@ An application has been developed where users can view jobs in the sector and vi
 - **İkincil Renk:** #F2545B
 - **Arka Plan Rengi:** #FFFFFF
 - **Yazı Rengi:** #000000
-
-## Uygulama İçi Görseller
-
-- [Job List Screen](![IMG-20240811-WA0010](https://github.com/user-attachments/assets/f3744283-4a6a-4986-962c-cbfcf5295a89)
-)
-- [Drawer Menu](![drawer](https://github.com/user-attachments/assets/96dba99a-9f94-4a6d-a675-19147f031b86)
-)
-)
-- [Favorites Screen](![IMG-20240811-WA0011](https://github.com/user-attachments/assets/2e99ab18-f46d-41e8-beb0-5fb1ee4c2a29)
-)
-- [Job List Screen](**![IMG-20240811-WA0010](https://github.com/user-attachments/assets/f3744283-4a6a-4986-962c-cbfcf5295a89**)
-)
-- [Job Details Screen](![IMG-20240811-WA0012](https://github.com/user-attachments/assets/b0895437-63e5-4bb6-81c3-53999a8da05c))
-- [Favorites Screen](![IMG-20240811-WA0013](https://github.com/user-attachments/assets/47c2840d-55b8-46ee-9765-5717af3afdf2))
 
 ## Hakkında
 
