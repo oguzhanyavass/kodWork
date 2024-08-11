@@ -1,4 +1,7 @@
 {
   "name": "kodwork",
-  "slug": "kodwork"
+  "slug": "kodwork",
+  "plugins": [
+    "expo-font"
+  ]
 }
