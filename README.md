@@ -38,14 +38,16 @@
 
 ## Color Palette
 
-- **Primary Color:** #4630EB
-- **Secondary Color:** #F2545B
-- **Background Color:** #FFFFFF
-- **Text Color:** #000000
+<p>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #4630EB; margin-right: 10px;"></span> <strong>Primary Color:</strong> #4630EB<br>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #F2545B; margin-right: 10px;"></span> <strong>Secondary Color:</strong> #F2545B<br>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #FFFFFF; margin-right: 10px;"></span> <strong>Background Color:</strong> #FFFFFF<br>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #000000; margin-right: 10px;"></span> <strong>Text Color:</strong> #000000
+</p>
 
 ## In-App Visuals
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="./img/jobs.jpg" alt="Job List Screen" width="300"/>
   <img src="./img/drawer.jpg" alt="Drawer Menu" width="300"/>
   <img src="./img/nofav.jpg" alt="Favorites Screen" width="300"/>
@@ -103,21 +105,12 @@ An application has been developed where users can view jobs in the sector and vi
 
 ## Renk Paleti
 
-- **Ana Renk:** #4630EB
-- **İkincil Renk:** #F2545B
-- **Arka Plan Rengi:** #FFFFFF
-- **Yazı Rengi:** #000000
-
-## Uygulama İçi Görseller
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./img/jobs.jpg" alt="İş Listesi Ekranı" width="300"/>
-  <img src="./img/drawer.jpg" alt="Yan Menü" width="300"/>
-  <img src="./img/nofav.jpg" alt="Favoriler Ekranı" width="300"/>
-  <img src="./img/loadingjobs.jpg" alt="İş Listesi Ekranı" width="300"/>
-  <img src="./img/jobdetail.jpg" alt="İş Detayları Ekranı" width="300"/>
-  <img src="./img/favadded.jpg" alt="Favoriler Ekranı" width="300"/>
-</div>
+<p>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #F2545B; margin-right: 10px;"></span> <strong>Ana Renk:</strong> #F2545B<br>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #EEF0F2; margin-right: 10px;"></span> <strong>İkincil Renk:</strong> #EEF0F2<br>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #000000; margin-right: 10px;"></span> <strong>Arka Plan Rengi:</strong> #000000<br>
+  <span style="display: inline-block; width: 100px; height: 50px; background-color: #2F323A; margin-right: 10px;"></span> <strong>Yazı Rengi:</strong> #2F323A
+</p>
 
 ## Hakkında
 
