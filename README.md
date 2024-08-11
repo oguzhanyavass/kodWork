@@ -47,7 +47,7 @@
 
 ## In-App Visuals
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 25px;">
   <img src="./img/jobs.jpg" alt="Job List Screen" width="300"/>
   <img src="./img/drawer.jpg" alt="Drawer Menu" width="300"/>
   <img src="./img/nofav.jpg" alt="Favorites Screen" width="300"/>
