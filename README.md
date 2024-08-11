@@ -45,7 +45,7 @@
 
 ## In-App Visuals
 
-- [Job List Screen](![IMG-20240811-WA0010](https://github.com/user-attachments/assets/f3744283-4a6a-4986-962c-cbfcf5295a89)
+- [Job List Screen](./img/jobs)
 )
 - [Drawer Menu](![drawer](https://github.com/user-attachments/assets/96dba99a-9f94-4a6d-a675-19147f031b86)
 )
